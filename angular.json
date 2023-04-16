@@ -30,8 +30,9 @@
               "src/assets"
             ],
             "styles": [
-              "@angular/material/prebuilt-themes/pink-bluegrey.css",
-              "src/styles.scss"
+              "src/styles/tailwind.scss",
+              "src/styles/styles.scss",
+              "@angular/material/prebuilt-themes/pink-bluegrey.css"
             ],
             "scripts": []
           },
@@ -94,6 +95,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/styles/tailwind.scss",
               "@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.scss"
             ],
